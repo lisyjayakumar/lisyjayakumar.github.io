@@ -23,6 +23,7 @@ height: 100%;
     border-radius: 10%;
 
 
+
  }
 
  nav 
@@ -59,7 +60,8 @@ height: 100%;
  li
  {
     list-style-type: none;
-    font-size: 2em;
+   
+
     font-weight: bold;
  }
  section{
@@ -121,7 +123,7 @@ h3,span
 
 p,li,td
 {
-   font-size: 20px;
+   font-size: 25px;
 }
  
   
@@ -194,6 +196,8 @@ height: 100px;
 padding-top: 5px;
 font-style: italic;
 
+
+
 }
    .myimg
    {
@@ -221,8 +225,8 @@ h3:hover
    letter-spacing: 10px;
 }
 .animation {
-  width: 150px;
-  height: 150px;
+  width: 200px;
+  height: 200px;
   background-image: url('../images/mypic.jpg');
   background-size: cover;
   backdrop-filter: grayscale('100%');
@@ -254,8 +258,8 @@ filter: initial;
 {
      height: 300px;
     width: 80%;
-    padding-left: 20px;
-    padding-right: 40px;
+    padding-left: 15px;
+    padding-right: 45px;
 }
 
 
@@ -341,4 +345,8 @@ footer div
     
     background-image: url('../images/linkedin.png');
     background-size: cover;
+}
+table
+{
+    margin-left: 0px;
 }
