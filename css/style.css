@@ -331,3 +331,12 @@ footer div
     height: auto;
 
   }
+  #workex
+  {
+width: 100%;
+border-collapse: collapse;
+  }
+  #workex td
+  {
+padding: 8px;
+  }
